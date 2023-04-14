@@ -1,0 +1,18 @@
+package com.dio.branco.pan.java.collection.map.exercicioContato;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.ToString;
+
+@Data
+@AllArgsConstructor
+@ToString
+@EqualsAndHashCode
+public class Contato {
+
+    private String nome;
+    private Integer numero;
+
+
+}

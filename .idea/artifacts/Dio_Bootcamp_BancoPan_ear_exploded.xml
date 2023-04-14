@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Dio_Bootcamp_BancoPan:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dio_Bootcamp_BancoPan_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Dio_Bootcamp_BancoPan/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
